@@ -1,0 +1,14 @@
+{
+  "name": "nginxer",
+  "version": "0.0.1",
+  "description": "Creates nginx virtual hosts for all spectrumbranch dev server apache virtual hosts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cbebry",
+  "license": "IDK",
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.2"
+  }
+}
